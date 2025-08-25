@@ -1,0 +1,17 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "A Discord selfbot with utility commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.15.1",
+    "discord.js": "^14.14.1",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
